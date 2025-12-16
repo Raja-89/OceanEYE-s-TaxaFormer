@@ -109,12 +109,12 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👥 Authors
 
-Pranay Gadh - [GitHub](https://github.com/Pranay22077)
-Raja Rathour - [GitHub](https://github.com/Raja-89)
-Rishabh Ranjan Singh - [GitHub](https://github.com/Rishabh1925)
-Shaurya Sinha - [GitHub](https://github.com/Shaurya-Sinha3301)
-Satyam Tiwari- [GitHub](https://github.com/Satyam-Tiwari-10)
-Priyanshi Sharma - [GitHub](https://github.com/Priyanshi-Sharma-279)
+- Pranay Gadh - [GitHub](https://github.com/Pranay22077)
+- Raja Rathour - [GitHub](https://github.com/Raja-89)
+- Rishabh Ranjan Singh - [GitHub](https://github.com/Rishabh1925)
+- Shaurya Sinha - [GitHub](https://github.com/Shaurya-Sinha3301)
+- Satyam Tiwari- [GitHub](https://github.com/Satyam-Tiwari-10)
+- Priyanshi Sharma - [GitHub](https://github.com/Priyanshi-Sharma-279)
 
 ## 🙏 Acknowledgments
 
